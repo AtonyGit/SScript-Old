@@ -1,0 +1,13 @@
+{
+  "name": "SScript",
+  "url": "https://github.com/AtonyGit/SScript-Old",
+  "license": "Apache",
+  "tags": ["hscript", "sscript"],
+  "description": "An easy-to-use Haxe Script tool for all targets. Used for Psych's experimental branch before 0.7.1",
+  "version": "4.0.0",
+  "classPath": "src/",
+  "releasenote": "More customizibility + Type checker completely fixed",
+  "contributors": ["TheWorldMachinima", "TahirRollingArch"],
+  "dependencies": {
+  }
+}
